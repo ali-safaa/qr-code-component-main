@@ -16,32 +16,35 @@ body {
      margin-top: 270px;
      border-radius: 10px;
      box-shadow: 10px 10px 20px 5px hsl(221, 20%, 78%);
+     /* padding: 20px; */
 }
 
 img {
-     padding: 13px;
-     border-radius: 20px;
+     padding: 13px 20px;
+     border-radius: 35px;
 }
 
 .paragraph-wighter {
-     font-size: 15px;
+     font-size: 20px;
      font-family: "Outfit", sans-serif;
      font-weight: 700;
      text-align: center;
      width: 180px;
      margin: 0 auto;
-     padding: 10px 15px;
+     padding: 10px 20px;
      color: hsl(218, 44%, 22%);
+     width: 250px;
+
 }
 
 .paragraph-lighter {
-     font-size: 12px;
+     font-size: 15px;
      font-family: "Outfit", sans-serif;
      font-weight: 400;
      width: 300px;
      color: hsl(220, 15%, 55%);
      text-align: center;
-     width: 180px;
+     width: 245px;
      margin: 0 auto;
      padding-bottom: 20px;
 }
