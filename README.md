@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/ali-safaa/qr-code-component-main)
 - Live Site URL: (https://qr-code-component-main-nine-bay.vercel.app/)
 
 ## My process
